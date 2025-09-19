@@ -158,6 +158,24 @@
 //4, 8, 15, 29, 56, 108, 208... Create a recursive function that receives a number N and returns the
 //Nth term in the tetranacci sequence.
 
+int[] x = [0, 0, 0, 1];
+int i = 0, y = 0;
+
+
+void TetanacciSequence(int n)
+{
+    if ((i + 1) <= (n - 4))
+    {
+        y = x[i] + x[i + 1] + x[i + 2] + x[i + 3];
+        x = x.Append(y).ToArray();
+        i++;
+        TetanacciSequence(n);
+    }
+    else
+        Console.WriteLine(y);
+}
+
+TetanacciSequence(7);
 
 
 #endregion
