@@ -5,18 +5,18 @@
 //Create a recursive function that receives a positive integer N and prints all natural numbers from
 //0 to N in ascending order
 
-//int x = 0;
+//int i = 0;
 
 //void NaturalNumberRecursion(int n)
 //{
-//    if (x <= n)
+//    if (i <= n)
 //    {
-//        Console.WriteLine(x);
-//        x++;
+//        Console.WriteLine(i);
+//        i++;
 //        NaturalNumberRecursion(n);
 //    }
 //    else
-//        x = 0;
+//        i = 0;
 //}
 
 //NaturalNumberRecursion(10);
@@ -34,7 +34,7 @@
 //{
 //    if (i <= (x.Length - 1))
 //    {
-//        y = y + x[i];
+//        y += x[i];
 //        i++;
 //        SummingNumbersRecursion(x);
 //    }
@@ -57,7 +57,7 @@
 //{
 //    if (x <= n)
 //    {
-//        y = y + x;
+//        y += x;
 //        x++;
 //        SumOfNumbersFromOne(n);
 //    }
@@ -108,7 +108,7 @@
 //{
 //    if (i <= n)
 //    {
-//        x = x * i;
+//        x *= i;
 //        i++;
 //        FacorialRecursion(n);
 //    }
@@ -133,7 +133,7 @@
 //    {
 //        if (i <= j)
 //        {
-//            x = x * i;
+//            x *= i;
 //            i++;
 //            SuperFacorialRecursion(n);
 //        }
@@ -158,24 +158,24 @@
 //4, 8, 15, 29, 56, 108, 208... Create a recursive function that receives a number N and returns the
 //Nth term in the tetranacci sequence.
 
-int[] x = [0, 0, 0, 1];
-int i = 0, y = 0;
+//int[] x = [0, 0, 0, 1];
+//int i = 0, y = 0;
 
 
-void TetanacciSequence(int n)
-{
-    if ((i + 1) <= (n - 4))
-    {
-        y = x[i] + x[i + 1] + x[i + 2] + x[i + 3];
-        x = x.Append(y).ToArray();
-        i++;
-        TetanacciSequence(n);
-    }
-    else
-        Console.WriteLine(y);
-}
+//void TetanacciSequence(int n)
+//{
+//    if ((i + 1) <= (n - 4))
+//    {
+//        y = x[i] + x[i + 1] + x[i + 2] + x[i + 3];
+//        x = x.Append(y).ToArray();
+//        i++;
+//        TetanacciSequence(n);
+//    }
+//    else
+//        Console.WriteLine(y);
+//}
 
-TetanacciSequence(7);
+//TetanacciSequence(10);
 
 
 #endregion
@@ -183,13 +183,80 @@ TetanacciSequence(7);
 #region Exercise 8
 //Write a recursive function that calculates the sum of the first n cubes:
 //S(n) = 1³ +2³ +... +n³
+
+//int i = 1, x = 0;
+
+//void RecursiveCubes(int n)
+//{
+//    if (i <= n)
+//    {
+//        x += (int)Math.Pow(i, 3);
+//        i++;
+//        RecursiveCubes(n);
+//    }
+//    else
+//        Console.WriteLine(x);
+//}
+
+//RecursiveCubes(3);
+
 #endregion
 
 #region Exercise 9
+
 //Write a recursive function that calculates the sum of the digits of an integer. For example, if the
 //input is 123, the output should be 1+2+3 = 6.
+
+//int x = 0;
+
+//void DigitSum(int n)
+//{
+//    if (n > 0)
+//    {
+//        x += (n % 10);
+//        n = n / 10;
+//        DigitSum(n);
+//    }
+//    else
+//        Console.WriteLine(x);
+//}
+
+//DigitSum(345);
+
 #endregion
 
 #region Exercise 10
-// idfk man
+
+// Pell numbers are defined by the following recursion:
+
+//P0 = 0,
+//P1 = 1,
+//Pn = 2Pn-1 + Pn-2.
+
+//Some numbers in this sequence are: 0, 1, 2, 5, 12, 29, 70, 169, 408, 985...
+//Create a recursive function that receives a number N and returns the Nth Pell number.
+
+//int[] x = [0, 1];
+//int i = 2;
+
+//void PellNumbersRecursion(int n)
+//{
+//    if (n > 1)
+//    {
+//        if (i <= n)
+//        {
+//            x = x.Append(2 * x[i - 1] + x[i - 2]).ToArray();
+//            i++;
+//            PellNumbersRecursion(n);
+//        }
+//        else
+//            Console.WriteLine(x[n]);
+//    }
+//    else
+//        Console.WriteLine(n);
+//}
+
+//PellNumbersRecursion(7);
+
+
 #endregion
