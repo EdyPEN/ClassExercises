@@ -127,7 +127,7 @@
 //Use previous recursive factorial function to implement this one.
 
 //int i = 1, j = 1, x = 1;
-//void SuperFacorialRecursion(int n)
+//void SuperFactorialRecursion(int n)
 //{
 //    if (j <= n)
 //    {
@@ -135,20 +135,20 @@
 //        {
 //            x *= i;
 //            i++;
-//            SuperFacorialRecursion(n);
+//            SuperFactorialRecursion(n);
 //        }
 //        else
 //        {
 //            i = 1;
 //            j++;
-//            SuperFacorialRecursion(n);
+//            SuperFactorialRecursion(n);
 //        }
 //    }
 //    else
 //        Console.WriteLine(x);
 //}
 
-//SuperFacorialRecursion(4);
+//SuperFactorialRecursion(4);
 
 #endregion
 
