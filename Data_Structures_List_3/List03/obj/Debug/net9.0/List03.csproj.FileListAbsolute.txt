@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\bin\Debug\net9.0\List03.exe
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\bin\Debug\net9.0\List03.deps.json
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\bin\Debug\net9.0\List03.runtimeconfig.json
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\bin\Debug\net9.0\List03.dll
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\bin\Debug\net9.0\List03.pdb
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.AssemblyInfo.cs
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.dll
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\refint\List03.dll
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.pdb
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\List03.genruntimeconfig.cache
+C:\Users\user\Documents\Edy\2nd_year\DataStuff\List03\List03\obj\Debug\net9.0\ref\List03.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_2\\Data_Structures_List_2\\Data_Structures_List_2.csproj": {}
+    "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\List03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_2\\Data_Structures_List_2\\Data_Structures_List_2.csproj": {
+    "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\List03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_2\\Data_Structures_List_2\\Data_Structures_List_2.csproj",
-        "projectName": "Data_Structures_List_2",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_2\\Data_Structures_List_2\\Data_Structures_List_2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\List03.csproj",
+        "projectName": "List03",
+        "projectPath": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\List03.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_2\\Data_Structures_List_2\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
