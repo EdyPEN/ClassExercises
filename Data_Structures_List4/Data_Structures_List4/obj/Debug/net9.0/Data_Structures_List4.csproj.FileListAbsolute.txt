@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\bin\Debug\net9.0\Data_Structures_List4.exe
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\bin\Debug\net9.0\Data_Structures_List4.deps.json
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\bin\Debug\net9.0\Data_Structures_List4.runtimeconfig.json
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\bin\Debug\net9.0\Data_Structures_List4.dll
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\bin\Debug\net9.0\Data_Structures_List4.pdb
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.sourcelink.json
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.dll
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\refint\Data_Structures_List4.dll
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.pdb
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\Data_Structures_List4.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\ClassExercises\Data_Structures_List4\Data_Structures_List4\obj\Debug\net9.0\ref\Data_Structures_List4.dll

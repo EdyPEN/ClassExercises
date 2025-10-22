@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A4C5C55-1F93-4F6E-8A10-317D94D4234C}|List03\\List03.csproj|c:\\users\\user\\documents\\edy\\2nd_year\\datastuff\\list03\\list03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A4C5C55-1F93-4F6E-8A10-317D94D4234C}|List03\\List03.csproj|c:\\users\\user\\documents\\github\\classexercises\\data_structures_list_3\\list03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A4C5C55-1F93-4F6E-8A10-317D94D4234C}|List03\\List03.csproj|solutionrelative:list03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_3\\List03\\Program.cs",
               "RelativeDocumentMoniker": "List03\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Edy\\2nd_year\\DataStuff\\List03\\List03\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ClassExercises\\Data_Structures_List_3\\List03\\Program.cs",
               "RelativeToolTip": "List03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T11:41:01.004Z",
               "EditorCaption": ""

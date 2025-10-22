@@ -2,24 +2,24 @@
 
 #region Exercise 1
 
-//Create a recursive function that receives a positive integer N and prints all natural numbers from
-//0 to N in ascending order
+Create a recursive function that receives a positive integer N and prints all natural numbers from
+0 to N in ascending order
 
-//int i = 0;
+int i = 0;
 
-//void NaturalNumberRecursion(int n)
-//{
-//    if (i <= n)
-//    {
-//        Console.WriteLine(i);
-//        i++;
-//        NaturalNumberRecursion(n);
-//    }
-//    else
-//        i = 0;
-//}
+void NaturalNumberRecursion(int n)
+{
+    if (i <= n)
+    {
+        Console.WriteLine(i);
+        i++;
+        NaturalNumberRecursion(n);
+    }
+    else
+        i = 0;
+}
 
-//NaturalNumberRecursion(10);
+NaturalNumberRecursion(10);
 
 #endregion
 
