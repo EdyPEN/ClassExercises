@@ -1,0 +1,6 @@
+20
+Lore,Scroll,Rare,1,False
+Sword,Weapon,Common,3,False
+Ice Sword,Weapon,Legendary,3,False
+Poison,Potion,Epic,2,False
+Chestplate,Armor,Rare,4,False
